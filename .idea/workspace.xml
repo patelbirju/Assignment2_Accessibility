@@ -21,8 +21,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/burrito _ Just another WordPress site_files/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="503" column="45" lean-forward="false" selection-start-line="503" selection-start-column="45" selection-end-line="503" selection-end-column="45" />
+            <state relative-caret-position="-276">
+              <caret line="134" column="20" lean-forward="false" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -31,9 +31,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="368" column="0" lean-forward="true" selection-start-line="368" selection-start-column="0" selection-end-line="368" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="477" column="122" lean-forward="false" selection-start-line="477" selection-start-column="122" selection-end-line="477" selection-end-column="122" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,6 +51,8 @@
       <find>et-gf-yanone-kaffeesatz-css</find>
       <find>&lt;script</find>
       <find>title=&quot;</find>
+      <find>body</find>
+      <find>color</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -98,6 +104,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Assignment2_Accessibility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment2_Accessibility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment2_Accessibility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="burrito _ Just another WordPress site_files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -201,15 +221,15 @@
       <updated>1506843266222</updated>
       <workItem from="1506843272882" duration="6094000" />
       <workItem from="1506859101082" duration="727000" />
-      <workItem from="1506888896464" duration="582000" />
+      <workItem from="1506888896464" duration="2911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7403000" />
+    <option name="totallyTimeSpent" value="9732000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -267,29 +287,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/burrito _ Just another WordPress site_files/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="503" column="45" lean-forward="false" selection-start-line="503" selection-start-column="45" selection-end-line="503" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/burrito _ Just another WordPress site_files/css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/burrito _ Just another WordPress site_files/css(1)">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/burrito _ Just another WordPress site_files/css(2)">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-29">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -305,11 +303,52 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/burrito _ Just another WordPress site.html" />
+    <entry file="file://$PROJECT_DIR$/burrito _ Just another WordPress site_files/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret line="134" column="20" lean-forward="false" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/burrito _ Just another WordPress site_files/css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="261" column="47" lean-forward="false" selection-start-line="261" selection-start-column="45" selection-end-line="261" selection-end-column="47" />
+          <caret line="262" column="47" lean-forward="false" selection-start-line="262" selection-start-column="45" selection-end-line="262" selection-end-column="47" />
+          <caret line="269" column="47" lean-forward="false" selection-start-line="269" selection-start-column="45" selection-end-line="269" selection-end-column="47" />
+          <caret line="270" column="47" lean-forward="false" selection-start-line="270" selection-start-column="45" selection-end-line="270" selection-end-column="47" />
+          <caret line="277" column="47" lean-forward="false" selection-start-line="277" selection-start-column="45" selection-end-line="277" selection-end-column="47" />
+          <caret line="278" column="47" lean-forward="false" selection-start-line="278" selection-start-column="45" selection-end-line="278" selection-end-column="47" />
+          <caret line="285" column="47" lean-forward="false" selection-start-line="285" selection-start-column="45" selection-end-line="285" selection-end-column="47" />
+          <caret line="286" column="47" lean-forward="false" selection-start-line="286" selection-start-column="45" selection-end-line="286" selection-end-column="47" />
+          <caret line="293" column="47" lean-forward="false" selection-start-line="293" selection-start-column="45" selection-end-line="293" selection-end-column="47" />
+          <caret line="294" column="47" lean-forward="false" selection-start-line="294" selection-start-column="45" selection-end-line="294" selection-end-column="47" />
+          <caret line="301" column="47" lean-forward="false" selection-start-line="301" selection-start-column="45" selection-end-line="301" selection-end-column="47" />
+          <caret line="309" column="47" lean-forward="false" selection-start-line="309" selection-start-column="45" selection-end-line="309" selection-end-column="47" />
+          <caret line="317" column="47" lean-forward="false" selection-start-line="317" selection-start-column="45" selection-end-line="317" selection-end-column="47" />
+          <caret line="318" column="47" lean-forward="false" selection-start-line="318" selection-start-column="45" selection-end-line="318" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/burrito _ Just another WordPress site_files/css(2)">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2267">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="368" column="0" lean-forward="true" selection-start-line="368" selection-start-column="0" selection-end-line="368" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="477" column="122" lean-forward="false" selection-start-line="477" selection-start-column="122" selection-end-line="477" selection-end-column="122" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
